@@ -1,1 +1,1 @@
-# Patterns-JAVA
+# Awesome Patterns Using JAVA.
